@@ -1,1 +1,1 @@
-# AngularMeanCourse
+# AngularCoursePractice(MEAN)
